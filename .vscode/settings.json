@@ -1,7 +1,8 @@
 {
     "glsl-canvas.textures": {
-        "0": "./024_dream_logo.jpeg",
-        "1": "./024_abby.png",
+        "0": "./texture_dreamLogo.jpg",
+        "1": "./texture_abby.png",
+        "2": "./texture_checker.jpg",
     }
 }
 
